@@ -1,0 +1,275 @@
+@media (min-width: 576px) {
+
+    #squirrel-article,
+    #homelander-article {
+        border: 2px solid black;
+        padding: 10px;
+    }
+
+    #Funyon {
+        position: relative;
+        bottom: 100px;
+        left: 420px;
+        height: 50px;
+        width: 50px;
+
+    }
+
+    #TheFunyontitle {
+        font-size: 60px;
+        text-align: center;
+        position: relative;
+        right: 30px;
+        font-family: "Luckiest Guy";
+        font-style: normal;
+        font-weight: 100;
+    }
+
+    #motto {
+        text-align: center;
+        font-family: "Luckiest Guy";
+        position: relative;
+        bottom: 100px;
+        font-size: 10px;
+    }
+
+    footer {
+        text-align: center;
+        font-family: "Raleway", sans-serif;
+        font-size: 12px;
+        position: relative;
+        top: 50px;
+    }
+
+    .HeadingLink {
+        font-size: 60px;
+        text-align: center;
+        position: relative;
+        left: 60px;
+        font-family: "Luckiest Guy";
+        font-style: normal;
+        font-weight: 100;
+        color: black;
+    }
+
+    #mottohomelander {
+        text-align: center;
+        font-family: "Luckiest Guy";
+        position: relative;
+        bottom: 40px;
+        font-size: 10px;
+    }
+
+    #Funyonhomelander {
+        position: relative;
+        bottom: 50px;
+        left: 400px;
+        height: 50px;
+        width: 50px;
+
+    }
+
+    #mottosquirrel {
+        text-align: center;
+        font-family: "Luckiest Guy";
+        position: relative;
+        bottom: 40px;
+        font-size: 10px;
+    }
+
+    #Funyonsquirrel {
+        position: relative;
+        bottom: 50px;
+        left: 400px;
+        height: 50px;
+        width: 50px;
+
+    }
+
+}
+
+@media (min-width: 720px) {
+
+    #squirrel-article,
+    #homelander-article {
+        border: none;
+    }
+
+    #Funyon {
+        position: relative;
+        bottom: 100px;
+        left: 500px;
+        height: 50px;
+        width: 50px;
+
+    }
+
+    #TheFunyontitle {
+        font-size: 60px;
+        text-align: center;
+        position: relative;
+        right: 30px;
+        font-family: "Luckiest Guy";
+        font-style: normal;
+        font-weight: 100;
+    }
+
+    #motto {
+        text-align: center;
+        font-family: "Luckiest Guy";
+        position: relative;
+        bottom: 100px;
+        font-size: 10px;
+    }
+
+    footer {
+        position: relative;
+        right: 50px;
+        text-align: center;
+        font-family: "Raleway", sans-serif;
+        font-size: 12px;
+        position: relative;
+        top: 50px;
+    }
+
+    .HeadingLink {
+        font-size: 60px;
+        text-align: center;
+        position: relative;
+        left: 125px;
+        top: 50px;
+        font-family: "Luckiest Guy";
+        font-style: normal;
+        font-weight: 100;
+        color: black;
+    }
+
+    #mottohomelander {
+        text-align: center;
+        font-family: "Luckiest Guy";
+        position: relative;
+        bottom: 40px;
+        font-size: 10px;
+    }
+
+    #Funyonhomelander {
+        position: relative;
+        bottom: 50px;
+        left: 450px;
+        height: 100px;
+        width: 100px;
+
+    }
+
+
+    #mottosquirrel {
+        text-align: center;
+        font-family: "Luckiest Guy";
+        position: relative;
+        bottom: 40px;
+        font-size: 10px;
+    }
+
+    #Funyonsquirrel {
+        position: relative;
+        bottom: 50px;
+        left: 450px;
+        height: 100px;
+        width: 100px;
+
+    }
+
+    #Squirrelpicture {
+        float: left;
+        height: 200px;
+        margin-right: 5px;
+    }
+
+    #Homelanderpicture {
+        float: left;
+        margin-right: 5px;
+    }
+}
+
+@media (min-width: 992px) {
+    #homelander-article {
+        position: relative;
+        right: 200px;
+        top: 100px;
+    }
+
+    #Homelanderpicture {
+        margin-right: 20px;
+    }
+
+    #squirrel-article {
+        position: relative;
+    }
+
+    #Squirrelpicture {
+        margin-right: 20px;
+    }
+
+    #TheFunyontitle {
+        position: relative;
+        right: 50px;
+    }
+
+    #Funyon {
+        position: relative;
+        left: 600px;
+    }
+
+
+    #motto {
+        position: relative;
+        right: 25px;
+    }
+
+    footer{
+       position: relative;
+       top: 500px;
+       right: 220px;
+    }
+
+    #Funyonsquirrel {
+        position: relative;
+        left: 640px;
+        bottom: 10px;
+        height: 50px;
+        width: 50px;
+    }
+
+    .HeadingLink {
+        position: relative;
+        left: 300px;
+        top: 50px;
+    }
+
+    #mottohomelander {
+        position: relative;
+        top: 10px;
+        margin-bottom: 100px;
+    }
+
+    #Funyonhomelander {
+        position: relative;
+        left: 640px;
+        bottom: 10px;
+        height: 50px;
+        width: 50px;
+    }
+
+    #homelander2{
+        position: relative;
+        left: 300px;
+        
+    }
+
+    #mottosquirrel {
+        position: relative;
+        top: 10px;
+        margin-bottom: 100px;
+    }
+
+}
